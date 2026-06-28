@@ -1,10 +1,10 @@
-package Atividade30062026.FullStack;
+package com.example.erp_nexus_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FullStackApplicationTests {
+class ErpNexusBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

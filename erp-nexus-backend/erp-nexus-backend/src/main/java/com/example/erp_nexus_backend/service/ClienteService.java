@@ -22,8 +22,7 @@ public class ClienteService {
                         c.getId(),
                         c.getNome(),
                         c.getEmail(),
-                        c.getTelefone(),
-                        c.getCpf()
+                        c.getTelefone()
                 ))
                 .toList();
     }
